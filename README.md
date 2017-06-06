@@ -8,21 +8,21 @@
 
 ## Objectives
 
-By the end of this, developers should be able to:
+By the end of this study, developers should have:
 
--   Fully develop a project idea.
--   Create user stories
--   Create and ERD
--   Have planned Tables with columns
--   Have planned routes
--   Have a wireframe
+-   Developed a full stack project idea.
+-   Created user stories.
+-   Created an ERD.
+-   Planned tables with columns.
+-   Defined routes.
+-   Sketched a wireframe.
 
 ## Instructions
 
 1.  Fork and clone this repository.
 1.  Change into the new directory.
 1.  Create and checkout a new branch, named `response`.
-1.  Follow the directions given in [`practice.md`](study.md).
+1.  Follow the directions given in [`study.md`](study.md).
 1.  When finished, push to your fork and submit a pull request.
 
 You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
@@ -32,5 +32,6 @@ requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
 
 ## [License](LICENSE)
 
-Source code distributed under the MIT license. Text and other assets copyright
-General Assembly, Inc., all rights reserved.
+1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
+1.  All software code is licensed under GNU GPLv3. For commercial use or
+    alternative licensing, please contact legal@ga.co.

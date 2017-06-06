@@ -1,7 +1,6 @@
 # Full Stack Project Practice
 
-You will be presenting this early next week.  Please have a breif presentation
-planned.  Presentations should be between 5 - 10 minutes long.
+Please be prepared to discuss these items with a consultant during a 1 on 1.
 
 You may use GitHub, PowerPoint, Keynote, or any other tools you desire to
 complete any part of this.
