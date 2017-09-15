@@ -10,12 +10,12 @@
 
 By the end of this, developers should be able to:
 
--   Developed a full stack project idea.
--   Created user stories.
--   Created an ERD.
--   Planned tables with columns.
--   Defined routes.
--   Sketched a wireframe.
+-   Develop a full stack project idea.
+-   Create user stories.
+-   Create an ERD.
+-   Plan tables with columns.
+-   Define routes.
+-   Sketch a wireframe.
 
 ## Instructions
 
