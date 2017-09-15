@@ -1,6 +1,6 @@
 # Full Stack Project Practice
 
-Please be prepared to discuss these items with a consultant during a 1 on 1.
+Be prepared to discuss these items with a consultant during a 1 on 1.
 
 You may use GitHub, PowerPoint, Keynote, or any other tools you desire to
 complete any part of this.
@@ -32,8 +32,8 @@ What tables will you need? What will the columns on the table be?
 
 ## Create an ERD (entity relationship diagram)
 
-These are the diagrams that show how your tables are related to one another.
-(one to many, many to many, ect).
+These are the diagrams that show how your tables are related to one another
+(one to many, many to many, etc).
 
 ```md
 <!-- your answer here -->
@@ -41,7 +41,7 @@ These are the diagrams that show how your tables are related to one another.
 
 ## Routing
 
-What routes will you need to be able to make the proper request to your API?
+What routes will you need to make the proper request to your API?
 
 ```md
 <!-- your answer here -->
