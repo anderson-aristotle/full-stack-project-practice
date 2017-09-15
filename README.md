@@ -8,7 +8,7 @@
 
 ## Objectives
 
-By the end of this study, developers should have:
+By the end of this, developers should be able to:
 
 -   Developed a full stack project idea.
 -   Created user stories.
