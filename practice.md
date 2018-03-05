@@ -35,6 +35,8 @@ What tables will you need? What will the columns on the table be?
 These are the diagrams that show how your tables are related to one another
 (one to many, many to many, etc).
 
+Include an image (or a link to image) below.
+
 ```md
 <!-- your answer here -->
 ```
