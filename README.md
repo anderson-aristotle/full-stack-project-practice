@@ -5,6 +5,7 @@
 ## Prerequisites
 
 - Rails
+- [full-stack-project](https://git.generalassemb.ly/ga-wdi-boston/full-stack-project)
 
 ## Objectives
 
