@@ -49,14 +49,6 @@ What routes will you need to make the proper request to your API?
 <!-- your answer here -->
 ```
 
-## 3rd Party APIs
-
-Do you plan to use any, if so what are they?
-
-```md
-<!-- your answer here -->
-```
-
 ## Wireframes
 
 Please create a wireframe of your planned front end.
